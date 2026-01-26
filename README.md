@@ -1,2 +1,1 @@
-# TPS-SDK---For-Python
-A python SDK!
+# A python SDK!
