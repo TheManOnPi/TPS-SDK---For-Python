@@ -28,6 +28,7 @@
 | Bluetooth support                                  | Easy wireless communication and device interaction ❌                         |
 | Smart module inclusion                             | Only bundles SDK modules actually used, reducing size and clutter ❌          |
 | **Module bundling with pre-included dependencies** | Prepackage essential modules like psutil, so exported apps work immediately ❌ |
+
 **Key:**
  - 🟨: WIP/Partly impimented
  - ❌: Not yet implimented
