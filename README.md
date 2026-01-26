@@ -5,7 +5,7 @@
 
 ### PROGRESS:
 
-| Feature                                            | Pain it fixes                                                               |
+| Feature                                            | Why?                                                             |
 | -------------------------------------------------- | --------------------------------------------------------------------------- |
 | easyGUI                                            | Tkinter boilerplate ✅                                                        |
 | goodFile                                           | File & folder handling ✅                                                     |
