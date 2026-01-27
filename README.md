@@ -10,12 +10,12 @@
 | easyGUI                                            | Tkinter boilerplate ✅                                                        |
 | goodFile                                           | File & folder handling ✅                                                     |
 | EasyImporting                                      | Missing packages ✅                                                           |
-| auto-threaded defs                                 | Concurrency hell ✅                                                           |
+| auto-threaded defs                                 | Concurrency hell 🟨                                                           |
 | try-wrapped code                                   | weird errors 🟨                                                             |
-| Understandable Networking                          | Networking confusion ✅                                                       |
-| EasyTCP                                            | TCP headaches ✅                                                              |
-| StructUDP                                          | UDP serialization pain ✅                                                      |
-| EasyGC                                             | Memory headaches in long-running scripts ✅                                   |
+| Understandable Networking                          | Networking confusion 🟨                                                       |
+| EasyTCP                                            | TCP headaches 🟨                                                              |
+| StructUDP                                          | UDP serialization pain 🟨                                                      |
+| EasyGC                                             | Memory headaches in long-running scripts 🟨                                   |
 | cmdPassthrough                                     | Running system commands easily ✅                                             |
 | Easy Send/Receive                                  | Multi-machine messaging simplified ✅                                         |
 | Broadcast                                          | Multi-recipient messaging without boilerplate ✅                              |
