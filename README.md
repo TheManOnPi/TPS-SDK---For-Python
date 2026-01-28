@@ -7,6 +7,7 @@
 
 | Feature                                            | Why?                                                             |
 | -------------------------------------------------- | --------------------------------------------------------------------------- |
+| lp (Logging)                                           | Even Has colours! ✅                                                     |
 | easyGUI                                            | Tkinter boilerplate ✅                                                        |
 | goodFile                                           | File & folder handling ✅                                                     |
 | EasyImporting                                      | Missing packages ✅                                                           |
