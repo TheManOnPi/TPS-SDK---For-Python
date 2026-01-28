@@ -11,15 +11,15 @@
 | easyGUI                                            | Tkinter boilerplate ✅                                                        |
 | goodFile                                           | File & folder handling ✅                                                     |
 | EasyImporting                                      | Missing packages ✅                                                           |
-| auto-threaded defs                                 | Concurrency hell 🟨                                                           |
-| try-wrapped code                                   | weird errors 🟨                                                             |
-| Understandable Networking                          | Networking confusion 🟨                                                       |
-| EasyTCP                                            | TCP headaches 🟨                                                              |
-| StructUDP                                          | UDP serialization pain 🟨                                                      |
-| EasyGC                                             | Memory headaches in long-running scripts 🟨                                   |
+| auto-threaded defs                                 | Concurrency hell ✅                                                           |
+| try-wrapped code                                   | weird errors ✅                                                             |
+| Understandable Networking                          | Networking confusion ✅                                                       |
+| EasyTCP                                            | TCP headaches ✅                                                              |
+| EasyUDP                                          | UDP serialization pain ✅                                                      |
+| EasyGC                                             | Memory headaches in long-running scripts ✅                                   |
 | cmdPassthrough                                     | Running system commands easily ✅                                             |
-| Easy Send/Receive                                  | Multi-machine messaging simplified 🟨                                         |
-| Broadcast                                          | Multi-recipient messaging without boilerplate 🟨                              |
+| Easy Send/Receive                                  | Multi-machine messaging simplified ✅                                         |
+| Broadcast                                          | Multi-recipient messaging without boilerplate ✅                              |
 | waitOnContent                                      | Receive content easily, no socket loops needed ✅                             |
 | **E2EE**                                           | Automatic end-to-end encryption for all network messages ✅                   |
 | updateScriptFromGitHub                             | Keep scripts up-to-date automatically from GitHub ❌                          |
